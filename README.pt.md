@@ -1,4 +1,4 @@
-# LeetCode Go Challenges
+# LeetCode Golang Challenges
 
 Este repositório contém minhas soluções para desafios do LeetCode, organizadas por dificuldade: **Easy**, **Medium**, e **Hard**. Cada desafio possui sua própria pasta contendo a solução em Go e um `README.md` com a descrição do problema.
 
